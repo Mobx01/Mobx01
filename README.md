@@ -1,4 +1,4 @@
-# Hi, I’m Anant Bhardwaj 
+# Hi, I’m Anant Bhardwaj 👋
 
 I’m a Computer Science student and problem solver with a strong focus on **core CS fundamentals, C++, and algorithmic thinking**. I enjoy building systems from scratch, optimizing logic, and turning ideas into scalable, real-world solutions through projects and hackathons.
 
@@ -8,7 +8,7 @@ I’m particularly interested in low-level understanding, clean architecture, an
 
 ## What I’m Currently Working On
 
-- Strengthening **C++, Data Structures & Algorithms**, and competitive programming skills  
+- Strengthening **C++, Data Structures & Algorithms**, and competitive programming  
 - Building **real-world projects** with clean design and scalability in mind  
 - Exploring **AI / GenAI systems** with practical, problem-focused applications  
 - Preparing for **high-impact engineering and R&D-oriented roles**
@@ -24,6 +24,13 @@ Built a retrieval-augmented generation system to optimize warehouse queries and 
 ### Energy Monitoring & Optimization Platform
 Designed a platform for real-time energy monitoring, forecasting, and optimization, including dashboards and alerting mechanisms.
 
+### Web-Based Space Game
+Developed a browser-based space game focusing on gameplay logic, real-time interactions, and smooth camera movement.  
+This project helped strengthen my understanding of **game loops, state management, and performance optimization** in web environments.
+
+### Portfolio Website
+Designed and developed a personal portfolio website to showcase projects, skills, and experience, with a focus on clean UI, responsiveness, and clarity.
+
 ### Low-Level & Logic-Focused Programs
 Worked on binary calculators, algorithmic problem solutions, and system-oriented utilities with an emphasis on efficiency and correctness.
 
@@ -31,7 +38,7 @@ Worked on binary calculators, algorithmic problem solutions, and system-oriented
 
 ## Tech Stack
 
-**Languages:** C++, C, Python (basics), HTML  
+**Languages:** C++, C, Python (basics), HTML, JavaScript  
 **Core Areas:** Data Structures & Algorithms, OOP, Problem Solving, Machine Learning  
 **Tools:** Git, GitHub, VS Code  
 **Interests:** System design (early stage), AI/GenAI, optimization problems
@@ -56,7 +63,6 @@ Always learning by building, experimenting, and optimizing systems.
 ---
 
 _“Build it. Break it. Optimize it.”_
-
 
 
 ## 🌐 Socials:
