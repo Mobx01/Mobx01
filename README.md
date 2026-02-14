@@ -1,4 +1,4 @@
-# Hi, I’m Anant Bhardwaj 👋
+# Hi, I’m Anant Bhardwaj 
 
 I’m a Computer Science student and problem solver with a strong focus on **core CS fundamentals, C++, and algorithmic thinking**. I enjoy building systems from scratch, optimizing logic, and turning ideas into scalable, real-world solutions through projects and hackathons.
 
