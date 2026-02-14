@@ -1,5 +1,62 @@
-# 💫 About Me:
-👋 Hi, I’m Anant Bhardwaj<br><br>I’m a Computer Science student & problem solver with a strong interest in core CS fundamentals, C++, and algorithmic thinking. I enjoy building systems from scratch, optimizing logic, and applying tech to real-world problems through hackathons and projects.<br><br>🚀 What I’m Working On<br><br>Mastering C++, Data Structures & Algorithms, and competitive programming<br><br>Building real-world projects with clean architecture and scalability<br><br>Exploring AI / GenAI systems with practical use cases<br><br>Preparing for high-impact roles in engineering and R&D-oriented domains<br><br>🧠 Projects & Experience<br><br>AI-Driven Warehouse Management (RAG System)<br>Finalist – Pathway × IIT Ropar GenAI Hackathon<br>Built a retrieval-augmented system to optimize warehouse queries and operations using GenAI.<br><br>Energy Monitoring & Optimization Platform<br>Designed a system for real-time energy tracking, forecasting, and optimization with dashboards and alerts.<br><br>QR-Based Hostel Entry/Exit System<br>Mobile application concept for secure and automated attendance using QR scanning.<br><br>Low-Level & Logic-Focused Programs<br>Including binary calculators, algorithmic problem solutions, and system-oriented utilities.<br><br>🛠 Tech Stack<br><br>Languages: C++, C, Python (basics), HTML<br><br>Core Areas: DSA, Algorithms, OOP, Problem Solving<br><br>Tools: Git, GitHub, VS Code<br><br>Interests: System design (early), AI/GenAI, optimization problems<br><br>🎯 Goals<br><br>Short term: Become strong in core CS + DSA + C++<br><br>Long term: Work on algorithmic, R&D, or deep-tech roles<br><br>Constantly improve by building, breaking, and optimizing systems<br><br>🌐 Connect With Me<br><br>GitHub: https://github.com/Mobx01<br><br>LinkedIn: https://linkedin.com/in/anant-bhardwaj-390b86312<br><br>Portfolio: https://anantmob.netlify.app
+# Hi, I’m Anant Bhardwaj 
+
+I’m a Computer Science student and problem solver with a strong focus on **core CS fundamentals, C++, and algorithmic thinking**. I enjoy building systems from scratch, optimizing logic, and turning ideas into scalable, real-world solutions through projects and hackathons.
+
+I’m particularly interested in low-level understanding, clean architecture, and performance-driven development.
+
+---
+
+## What I’m Currently Working On
+
+- Strengthening **C++, Data Structures & Algorithms**, and competitive programming skills  
+- Building **real-world projects** with clean design and scalability in mind  
+- Exploring **AI / GenAI systems** with practical, problem-focused applications  
+- Preparing for **high-impact engineering and R&D-oriented roles**
+
+---
+
+## Projects & Experience
+
+### AI-Driven Warehouse Management (RAG System)
+**Finalist — Pathway × IIT Ropar GenAI Hackathon**  
+Built a retrieval-augmented generation system to optimize warehouse queries and operational workflows using GenAI.
+
+### Energy Monitoring & Optimization Platform
+Designed a platform for real-time energy monitoring, forecasting, and optimization, including dashboards and alerting mechanisms.
+
+### Low-Level & Logic-Focused Programs
+Worked on binary calculators, algorithmic problem solutions, and system-oriented utilities with an emphasis on efficiency and correctness.
+
+---
+
+## Tech Stack
+
+**Languages:** C++, C, Python (basics), HTML  
+**Core Areas:** Data Structures & Algorithms, OOP, Problem Solving, Machine Learning  
+**Tools:** Git, GitHub, VS Code  
+**Interests:** System design (early stage), AI/GenAI, optimization problems
+
+---
+
+## Goals
+
+- **Short-term:** Master core CS, DSA, C++, and ML fundamentals  
+- **Long-term:** Work on algorithmic, R&D, or deep-tech engineering roles  
+
+Always learning by building, experimenting, and optimizing systems.
+
+---
+
+## Connect With Me
+
+- GitHub: [Mobx01](https://github.com/Mobx01)
+- LinkedIn: [Anant Bhardwaj](https://linkedin.com/in/anant-bhardwaj-390b86312)
+- Portfolio: [anantmob.netlify.app](https://anantmob.netlify.app)
+
+---
+
+_“Build it. Break it. Optimize it.”_
+
 
 
 ## 🌐 Socials:
