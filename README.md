@@ -34,6 +34,9 @@ Designed and developed a personal portfolio website to showcase projects, skills
 ### Low-Level & Logic-Focused Programs
 Worked on binary calculators, algorithmic problem solutions, and system-oriented utilities with an emphasis on efficiency and correctness.
 
+### Ahouba.com  
+**IIIT Manipur Annual Techfest — Team Project**  
+Designed and developed a **fully functional 2D + 3D interactive website** as a **team project** for IIIT Manipur’s annual techfest. Built the frontend using **React.js**, integrated **Three.js** for real-time 3D rendering, and implemented **Cannon.js** to enable physics-based interactions, delivering an immersive and engaging user experience.
 ---
 
 ## Tech Stack
