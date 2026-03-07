@@ -8,7 +8,7 @@ I’m particularly interested in low-level understanding, clean architecture, an
 
 ## What I’m Currently Working On
 
-- Strengthening **C++, Data Structures & Algorithms**, and competitive programming  
+- Strengthening **C++, Data Structures & Algorithms**, **Machine Learning** and competitive programming  
 - Building **real-world projects** with clean design and scalability in mind  
 - Exploring **AI / GenAI systems** with practical, problem-focused applications  
 - Preparing for **high-impact engineering and R&D-oriented roles**
