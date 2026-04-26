@@ -43,7 +43,7 @@ Worked on binary calculators, algorithmic problem solutions, and system-oriented
 ## Tech Stack
 
 **Languages:** C++, C, Python (basics), HTML, JavaScript  
-**Libraries:** Numpy, Pandas
+**Libraries:** Numpy, Pandas  
 **Core Areas:** Data Structures & Algorithms, OOP, Problem Solving, Machine Learning  
 **Tools:** Git, GitHub, VS Code  
 **Interests:** System design (early stage), AI/GenAI, optimization problems
