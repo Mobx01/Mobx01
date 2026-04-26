@@ -1,6 +1,6 @@
 # Hi, I’m Anant Bhardwaj 
 
-I’m a Computer Science student and problem solver with a strong focus on **core CS fundamentals, C++, and algorithmic thinking**. I enjoy building systems from scratch, optimizing logic, and turning ideas into scalable, real-world solutions through projects and hackathons.
+I’m a Computer Science student and problem solver with a strong focus on **core CS fundamentals, C++, Python, Machine Learning, and algorithmic thinking**. I enjoy building systems from scratch, optimizing logic, and turning ideas into scalable, real-world solutions through projects and hackathons.
 
 I’m particularly interested in low-level understanding, clean architecture, and performance-driven development.
 
@@ -43,6 +43,7 @@ Worked on binary calculators, algorithmic problem solutions, and system-oriented
 ## Tech Stack
 
 **Languages:** C++, C, Python (basics), HTML, JavaScript  
+**Libraries:** Numpy, Pandas
 **Core Areas:** Data Structures & Algorithms, OOP, Problem Solving, Machine Learning  
 **Tools:** Git, GitHub, VS Code  
 **Interests:** System design (early stage), AI/GenAI, optimization problems
@@ -51,7 +52,7 @@ Worked on binary calculators, algorithmic problem solutions, and system-oriented
 
 ## Goals
 
-- **Short-term:** Master core CS, DSA, C++, and ML fundamentals  
+- **Short-term:** Master core CS, DSA, C++, Python, and ML fundamentals  
 - **Long-term:** Work on algorithmic, R&D, or deep-tech engineering roles  
 
 Always learning by building, experimenting, and optimizing systems.
