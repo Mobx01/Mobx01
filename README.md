@@ -21,6 +21,13 @@ I’m particularly interested in low-level understanding, clean architecture, an
 **Finalist — Pathway × IIT Ropar GenAI Hackathon**  
 Built a retrieval-augmented generation system to optimize warehouse queries and operational workflows using GenAI.
 
+### Hybrid AI Learning Path Generator
+Full-Stack Web Application — Personal Project
+* Designed and developed a web application that automatically generates interactive, multi-branched learning roadmaps for any topic[cite: 1]. 
+* Built the frontend using Next.js and React Flow for dynamic graph visualization.
+* Integrated the Gemini API for AI-driven topic expansion. 
+* Implemented a robust backend using FastAPI, Redis caching, and PostgreSQL to ensure API cost-efficiency and persistent progress tracking.
+
 ### Energy Monitoring & Optimization Platform
 Designed a platform for real-time energy monitoring, forecasting, and optimization, including dashboards and alerting mechanisms.
 
@@ -42,8 +49,8 @@ Worked on binary calculators, algorithmic problem solutions, and system-oriented
 
 ## Tech Stack
 
-**Languages:** C++, C, Python (basics), HTML, JavaScript  
-**Libraries:** Numpy, Pandas  
+**Languages:** C++, C, Python, HTML, JavaScript  
+**Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Raylib(cpp)
 **Core Areas:** Data Structures & Algorithms, OOP, Problem Solving, Machine Learning  
 **Tools:** Git, GitHub, VS Code  
 **Interests:** System design (early stage), AI/GenAI, optimization problems
