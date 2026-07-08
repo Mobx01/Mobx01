@@ -58,7 +58,7 @@ I’m particularly interested in low-level understanding, clean architecture, an
 
 ## Goals
 
-- **Short-term:** Master core CS, DSA, and ML fundamentals, and maximize impact during my Data Science internship.  
+- **Short-term:** Master core CS, DSA, and ML fundamentals. 
 - **Long-term:** Secure high-impact software engineering, R&D, or deep-tech roles focusing on scalable systems and artificial intelligence.  
 
 Always learning by building, experimenting, and optimizing systems.
