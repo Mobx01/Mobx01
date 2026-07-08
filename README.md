@@ -1,4 +1,7 @@
-# Hi, I’m Anant Bhardwaj
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Anant+Bhardwaj;Software+Engineer+%7C+ML+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing Banner" />
+
+
 
 I’m a B.Tech Computer Science & Technology undergraduate at IIIT Manipur with a strong focus on core CS fundamentals, C++, Python, Data Structures & Algorithms, and Machine Learning. I enjoy building full-stack systems from scratch, optimizing logic, and turning ideas into scalable solutions through projects and competitive hackathons.
 
