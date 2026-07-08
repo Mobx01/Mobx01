@@ -1,6 +1,6 @@
 # Hi, I’m Anant Bhardwaj
 
-I’m a B.Tech Computer Science & Technology undergraduate at IIIT Manipur (CGPA: 8.68/10) with a strong focus on core CS fundamentals, C++, Python, Data Structures & Algorithms, and Machine Learning. I enjoy building full-stack systems from scratch, optimizing logic, and turning ideas into scalable solutions through projects and competitive hackathons.
+I’m a B.Tech Computer Science & Technology undergraduate at IIIT Manipur with a strong focus on core CS fundamentals, C++, Python, Data Structures & Algorithms, and Machine Learning. I enjoy building full-stack systems from scratch, optimizing logic, and turning ideas into scalable solutions through projects and competitive hackathons.
 
 I’m particularly interested in low-level understanding, clean architecture, and performance-driven development.
 
