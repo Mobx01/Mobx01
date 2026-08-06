@@ -11,7 +11,7 @@ I’m particularly interested in low-level understanding, clean architecture, an
 
 ## What I’m Currently Working On
 
-- Strengthening algorithmic problem-solving on LeetCode (315+ solved, Max Rating: 1510).
+- Strengthening algorithmic problem-solving on LeetCode (355+ solved, Max Rating: 1510) and Machine Learning Concepts.
 - Competing in and building solutions for hackathons like Pathway x IIT Ropar, Ethos 2025, and the GDG Solution Challenge.
 - Building real-world, full-stack projects with clean design, caching, and scalability in mind.
 
