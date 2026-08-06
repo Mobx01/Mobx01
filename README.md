@@ -24,6 +24,11 @@ I’m particularly interested in low-level understanding, clean architecture, an
 - Engineered a Next.js and FastAPI application utilizing the Gemini API to dynamically generate structured learning roadmaps (Directed Acyclic Graphs).
 - Implemented a robust backend data pipeline leveraging Redis for efficient caching and PostgreSQL for permanent storage to optimize API costs and system performance.
 
+### Rocket Simulator
+*C++ Physics Simulation Application*
+- Engineered a physics-based rocket simulator in C++, implementing core aerodynamic and astrodynamic equations to accurately model trajectory and propulsion mechanics.
+- Designed a robust object-oriented architecture to manage system states and simulation data, optimizing computational performance for continuous physics calculations.
+
 ### Event-Driven Route Optimization System
 *GDG on Campus Solution Challenge 2025*
 - Designed and engineered an event-driven system to model, optimize, and solve complex real-world logistical routing problems using core software engineering fundamentals.
