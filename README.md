@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Anant+Bhardwaj;Software+Engineer+%7C+ML+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing Banner" />
 
 <div align="center">
   <picture>
@@ -15,7 +16,6 @@
   <a href="https://anantmob.netlify.app"><strong>Explore My Portfolio »</strong></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Anant+Bhardwaj;Software+Engineer+%7C+ML+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing Banner" />
 
 
 <p align="center">
