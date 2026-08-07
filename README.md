@@ -87,6 +87,10 @@
 ### GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mobx01&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
   <!-- Primary Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mobx01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobx01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
