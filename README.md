@@ -1,9 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Anant+Bhardwaj;Software+Engineer+%7C+ML+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing Banner" />
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Anant+Bhardwaj;Software+Engineer+%7C+ML+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing Banner" />
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Anant+Bhardwaj;Software+Engineer+%7C+ML+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing Banner" />
+</div>
 
 I’m a B.Tech Computer Science & Technology undergraduate at IIIT Manipur with a strong focus on core CS fundamentals, C++, Python, Data Structures & Algorithms, and Machine Learning. I enjoy building full-stack systems from scratch, optimizing logic, and turning ideas into scalable solutions through projects and competitive hackathons.
 
@@ -55,18 +52,18 @@ I’m particularly interested in low-level understanding, clean architecture, an
 
 ## Tech Stack
 
-**Languages:** C++, C, Python, JavaScript, HTML, CSS, SQL  
-**Databases:** PostgreSQL, MySQL, Redis  
-**Frameworks & Tools:** Next.js, React.js, FastAPI, Flutter, Three.js, Git, Linux  
-**Data & ML:** Exploratory Data Analysis, Feature Engineering, Numpy, Pandas, Matplotlib, Seaborn  
-**Core Areas:** Data Structures & Algorithms, OOP, Time Complexity Analysis, System Optimization  
+**Languages:** C++, C, Python, JavaScript, HTML, CSS, SQL  
+**Databases:** PostgreSQL, MySQL, Redis  
+**Frameworks & Tools:** Next.js, React.js, FastAPI, Flutter, Three.js, Git, Linux  
+**Data & ML:** Exploratory Data Analysis, Feature Engineering, Numpy, Pandas, Matplotlib, Seaborn  
+**Core Areas:** Data Structures & Algorithms, OOP, Time Complexity Analysis, System Optimization  
 
 ---
 
 ## Goals
 
-- **Short-term:** Master core CS, DSA, and ML fundamentals. 
-- **Long-term:** Secure high-impact software engineering, R&D, or deep-tech roles focusing on scalable systems and artificial intelligence.  
+- **Short-term:** Master core CS, DSA, and ML fundamentals. 
+- **Long-term:** Secure high-impact software engineering, R&D, or deep-tech roles focusing on scalable systems and artificial intelligence.  
 
 Always learning by building, experimenting, and optimizing systems.
 
@@ -83,30 +80,13 @@ Always learning by building, experimenting, and optimizing systems.
 *“Build it. Break it. Optimize it.”*
 
 
-## Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anantxbth@gmail.com) 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anantxbth@gmail.com) 
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mobx01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mobx01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobx01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mobx01&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mobx01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mobx01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-this is my current readme of git profile. i have also attached my resume so follow git animation pdf for procedure and make my profle 
-
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mobx01&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
