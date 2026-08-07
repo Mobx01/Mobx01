@@ -48,32 +48,32 @@
     <circle cx="500" cy="580" r="2.5"><animateMotion path="M0,0 Q50,-80 -20,-180 T10,-350" dur="18s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- LEFT PANEL (ASCII Art 38%) -->
+<!-- LEFT PANEL (ASCII Art 38%) -->
   <rect x="25" y="25" width="430" height="560" rx="16" fill="#0F172A" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" filter="url(#glass-blur)" />
-  <g transform="translate(60, 80)" fill="url(#accent-grad)" font-size="12" font-weight="600" class="text" letter-spacing="2">
+  <g transform="translate(240, 80)" fill="url(#accent-grad)" font-size="12" font-weight="600" class="text" letter-spacing="2" text-anchor="middle" xml:space="preserve">
     <!-- ASCII Floating Animation -->
-    <animateTransform attributeName="transform" type="translate" values="60,80; 60,75; 60,80" dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="240,80; 240,75; 240,80" dur="6s" repeatCount="indefinite"/>
     
-    <text y="20" class="ascii-line">      .::::::::...       </text>
-    <text y="40" class="ascii-line">   .::::.......::::.     </text>
-    <text y="60" class="ascii-line">  .::.           .::.    </text>
-    <text y="80" class="ascii-line"> .::               ::.   </text>
-    <text y="100" class="ascii-line"> ::    _       _    ::   </text>
-    <text y="120" class="ascii-line"> ::   /#\     /#\   ::   </text>
-    <text y="140" class="ascii-line"> ::   \+/     \+/   ::   </text>
-    <text y="160" class="ascii-line"> ::                 ::   </text>
-    <text y="180" class="ascii-line"> .::      ___      ::.   </text>
-    <text y="200" class="ascii-line">  .::.  \_____/  .::.    </text>
-    <text y="220" class="ascii-line">   .::::.......::::.     </text>
-    <text y="240" class="ascii-line">      .::::::::...       </text>
-    <text y="260" class="ascii-line">      _.-"""""-._        </text>
-    <text y="280" class="ascii-line">    .'           '.      </text>
-    <text y="300" class="ascii-line">   /               \     </text>
-    <text y="320" class="ascii-line">  |     SYSTEM      |    </text>
-    <text y="340" class="ascii-line">  |   OPTIMIZED     |    </text>
-    <text y="360" class="ascii-line">  \                 /    </text>
-    <text y="380" class="ascii-line">   '._           _.'     </text>
-    <text y="400" class="ascii-line">      '-._____.-'        </text>
+    <text y="20">      .::::::::...       </text>
+    <text y="40">   .::::.......::::.     </text>
+    <text y="60">  .::.           .::.    </text>
+    <text y="80"> .::               ::.   </text>
+    <text y="100"> ::    _       _    ::   </text>
+    <text y="120"> ::   /#\     /#\   ::   </text>
+    <text y="140"> ::   \+/     \+/   ::   </text>
+    <text y="160"> ::                 ::   </text>
+    <text y="180"> .::      ___      ::.   </text>
+    <text y="200">  .::.  \_____/  .::.    </text>
+    <text y="220">   .::::.......::::.     </text>
+    <text y="240">      .::::::::...       </text>
+    <text y="260">      _.-"""""-._        </text>
+    <text y="280">    .'           '.      </text>
+    <text y="300">   /               \     </text>
+    <text y="320">  |     SYSTEM      |    </text>
+    <text y="340">  |   OPTIMIZED     |    </text>
+    <text y="360">  \                 /    </text>
+    <text y="380">   '._           _.'     </text>
+    <text y="400">      '-._____.-'        </text>
     
     <!-- Sequential Reveal for ASCII -->
     <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze" />
