@@ -1,3 +1,4 @@
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
@@ -13,6 +14,9 @@
   <br />
   <a href="https://anantmob.netlify.app"><strong>Explore My Portfolio »</strong></a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Anant+Bhardwaj;Software+Engineer+%7C+ML+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing Banner" />
+
 
 <p align="center">
   <a href="mailto:anantxbth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
