@@ -126,3 +126,13 @@ Always learning by building, experimenting, and optimizing systems.
   <br/>
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Mobx01&icon=0&color=0" alt="Profile Views" /></a>
 </p>
+
+
+<h3 align="center">Contribution Activity</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mobx01/Mobx01/output/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mobx01/Mobx01/output/dist/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mobx01/Mobx01/output/dist/github-snake-dark.svg">
+  </picture>
+</div>
