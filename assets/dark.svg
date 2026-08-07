@@ -7,7 +7,6 @@
       .pill:hover { transform: scale(1.05) translateY(-2px); }
       .pill:hover rect { fill: rgba(34, 211, 238, 0.15); stroke: #22D3EE; filter: drop-shadow(0 0 8px rgba(34,211,238,0.6)); }
       .icon:hover { fill: #22D3EE; filter: drop-shadow(0 0 6px #22D3EE); transition: 0.3s; }
-      .ascii-line { opacity: 0; }
     </style>
     
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
