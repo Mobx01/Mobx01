@@ -128,7 +128,6 @@ Always learning by building, experimenting, and optimizing systems.
 </p>
 
 
-<h3 align="center">Contribution Activity</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mobx01/Mobx01/output/dist/github-snake-dark.svg">
