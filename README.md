@@ -87,12 +87,27 @@
 ### GitHub Analytics
 
 <div align="center">
+  <!-- Primary Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mobx01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobx01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 <br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mobx01&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <!-- Streak Stats using the highly stable Heroku endpoint -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobx01&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+<br/>
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Mobx01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+<br/>
+
+<div align="center">
+  <!-- Top Contributed Repo -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mobx01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 <p align="center">
